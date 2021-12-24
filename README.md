@@ -6,9 +6,9 @@
 
 Running on Docker Desktop with Kubernetes enabled, ensure context is `docker-desktop`
 
-* [React] (https://reactjs.org/)
-* [Express] (https://expressjs.com/)
-* [Kubernetes] (https://kubernetes.io/)
+* [React](https://reactjs.org/)
+* [Express](https://expressjs.com/)
+* [Kubernetes](https://kubernetes.io/)
 * [IngressNginx](https://kubernetes.github.io/ingress-nginx/deploy/) - kubectl get pods --namespace=ingress-nginx
 * Event Bus - Basic implementation with express
 * [Skaffold](https://skaffold.dev/) - run with `skaffold dev` installed with `brew install skaffold`
